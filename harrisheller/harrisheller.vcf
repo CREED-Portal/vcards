@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Heller;Harris;;;
+FN:Harris Heller
+ORG:CREED 
+COMPANY:CREED 
+TITLE:Manging Director of Capital Markets
+TEL;TYPE=work,pref:
+TEL;CELL;TYPE=mobile,VOICE:+1 215 221 2793
+TEL;CELL;TYPE=Office,VOICE:+1 646 706 5214
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:harris@creed.tech
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100879636
+URL;TYPE=Website:https://www.creed.tech/
+URL;TYPE=WHATSAPP:
+
+
+URL;TYPE=Linkedin:https://linkedin.com//in/hkheller/
+PHOTO;ENCODING=b:DEF
+NOTE;CHARSET=UTF-8:CREED was founded by industry insiders, utilizing their expertise to innovate for the future, streamline processes, provide advisory services, and reduce underwriting and transaction friction through digital efficiency for the entire industry.
+
+END:VCARD
