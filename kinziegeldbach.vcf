@@ -1,0 +1,31 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Geldbach;Kinzie;;;
+FN:Kinzie Geldbach
+ORG:CREED
+COMPANY:CREED
+TITLE:CPO
+ADR;CHARSET=UTF-8:99 Hudson St., Suite 502, New York, NY 10013
+TEL;TYPE=work,pref:
+TEL;CELL;TYPE=mobile,VOICE:+1 917 623 8818
+TEL;CELL;TYPE=Office,VOICE:+1 646 706 5214
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:kinzie@creed.tech
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100797245
+URL;TYPE=Website:https://www.creed.tech/
+URL;TYPE=WHATSAPP:
+
+
+URL;TYPE=Linkedin:https://linkedin.com/in/kinzie-geldbach-a869675/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABdklEQVR42u3VwUvCUBwHcP+Wr2ND2SiERWCyQwgdPEVRUQgdokAUEqJAPEhQBCV4STqIu3iJwkgKwzFY0CgIRodhIO9/Cffm7Nbbwtvb6ft+Dz5s7/fbFiP/vGIc4AAHOMCBWQEW0PXjMAfVptFp5DOykExv1PrswGgbiuEl9ziB4DpjBgpIPHrhTQNSh3rP7DVLi8I7K1CB0KG3n0a8OpzsG6yPUAeuaWUXaIY/xHYc57TwAhTDd6Er4cgvFCF+hAYGMvYnhQWsh54DW8XmyF87QC0soGeAy8l6EBwmOzAHCdLAXz8BOk0uHSThbwB7rwo0v/Nm0ER2oEyIDhTo+nM6vJZlWVUWYDwHJaBNC/PI/9quswLfWSj0TdyB4kYAiJVEzmulDlxEAcgNUPFCBlI/CkAOEL/3GilCbkUBXA2qMw4tCVg+vTNt86GxFgIghoQtLzyvTD9IENkB0gCuaLotZ1OCKC+tnnS++I+FAxzgAAdmCfwAo7EfXFSdEo0AAAAASUVORK5CYII=
+NOTE;CHARSET=UTF-8:CREED was founded by industry insiders, utilizing their expertise to innovate for the future, streamline processes, provide advisory services, and reduce underwriting and transaction friction through digital efficiency for the entire industry.
+
+END:VCARD
