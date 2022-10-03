@@ -1,0 +1,31 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kaynes;Jayson;;;
+FN:Jayson Kaynes
+ORG:CREED
+COMPANY:CREED
+TITLE:Executive Vice President
+ADR;CHARSET=UTF-8:1815 Purdy Ave, Miami Beach, FL 33139
+TEL;TYPE=work,pref:
+TEL;CELL;TYPE=mobile,VOICE:+1 516 424 1995
+TEL;CELL;TYPE=Office,VOICE:
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:+15164241995
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:jayson@creed.tech
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100784332
+URL;TYPE=Website:https://www.creed.tech/
+URL;TYPE=WHATSAPP:
+
+
+URL;TYPE=Linkedin:https://linkedin.com/in/jayson-kaynes-a097696/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADCUlEQVR4nO2asUtqURzHP+q7JNhUQ0NKiGNrRA1NdQrCIAiifyAIIYRqqNDNShqsoSYh2mosCBwaAoeiLRxsSgILErSoqEFJ3xbvFbz3eN3r70DnM13ugd/3ez/3DPfAdV1dXTX4xrilC0hjBEgXkMYIkC4gjREgXUAaI0C6gDRGgHQBaYwA6QLSGAHSBaQxAqQLSGMEODX49PQUpRRKKR4eHj6t39zcvK/ncrk/zqpWq0SjUZRSTE1NUSqVbOup/Q6o1+skEgny+Tw+n4+1tTU6Ojpsm6+9gM3NTc7OzmhpaWFlZYVgMGjrfK0F7OzskMlkcLvdxGIxuru7bc/QVsDh4SF7e3sAzM3N0dfX50iOlgKy2Szb29sATE9PMzIy4liWdgJyuRzJZJJGo8HExASTk5OO5mkloFAoEI/HqdVqKKWYmZlxPFMbAaVSieXlZV5fX+nt7WVhYaEpuT+akvIXHh8fSaVSVCoVAHp6enC7m/NutNgBGxsb3N7eYlkWAOl0mkKh0JRsLQQ8Pz8zODhIOp3G5/NRq9VIJBJUq1XHs7UQMD4+zuLiIp2dnczPzwNQLBbZ2tpyPFsLAQMDA79dh8NhADKZDNls1tFsLQR8JBKJEAqFAEilUrae/j6ipQDLsojFYni9Xl5eXlhdXaVerzuSpaUAAL/fTzQaBSCfz7O7u+tIjrYCAIaGhhgeHgZgf3+fi4sL2zO0FgAwOztLIBCg0WiQTCZ5enqydb72ArxeL/F4HMuyqFQqrK+v2zrfMQFvb2/v1x6P50uzgsEgkUgEgPPzcw4ODr4071ccOwuUy2UAXC4Xra2tn9b9fj/Hx8f/PC8cDr9/H9iJYzvg5OQEgFAo1LSDzf9gyw4ol8tcX1/T3t7O/f09R0dHXF5eAjA6OmpHhGPYIqBYLLK0tPTpfn9/P2NjY3ZEOIYtAtra2ggEAtzd3eHxeOjq6kIppf3DA7jMz9LfHCNAuoA0RoB0AWmMAOkC0hgB0gWkMQKkC0hjBEgXkMYIkC4gjREgXUCaby/gJywA3RLKGBVQAAAAAElFTkSuQmCC
+NOTE;CHARSET=UTF-8:CREED was founded by industry insiders, utilizing their expertise to innovate for the future, streamline processes, provide advisory services, and reduce underwriting and transaction friction through digital efficiency for the entire industry.
+
+END:VCARD
