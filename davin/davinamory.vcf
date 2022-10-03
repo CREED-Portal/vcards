@@ -1,0 +1,31 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Amory;Davin ;;;
+FN:Davin  Amory
+ORG:CREED
+COMPANY:CREED
+TITLE:Chief Financial Officer
+ADR;CHARSET=UTF-8:99 Hudson St., Suite 502, New York, NY 10013
+TEL;TYPE=work,pref:
+TEL;CELL;TYPE=mobile,VOICE:+1 808 445 2917
+TEL;CELL;TYPE=Office,VOICE:+1 646 706 5214
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:davin@creed.tech
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100796864
+URL;TYPE=Website:https://www.creed.tech/
+URL;TYPE=WHATSAPP:https://wa.me/18084452917
+
+
+URL;TYPE=Linkedin:https://linkedin.com/in/davin-amory-334073215/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEdklEQVR4nO2aOUgzTRyHn7zeB/ECL0RRvAmIYLRQFA88Co9C7O0URBtFBEG0sLBV7KztLCySqAmxEI9YiIKiggpBQUSRmEQTjMlXSPZT4p2YKdwHApOd3X+e/HZ2djZEcXJy4uEP80+0gGjkAEQLiEYOQLSAaOQARAuIRg5AtIBo5ABEC4hGDkC0gGjkAEQLiEYOQLSAaOQARAuIRg5AtIBoQn9y0Pn5Od3d3W8XDA0lLi6OpKQkVCoVarWasrKyb3/Gw8MDXV1dOBwO+vv7aW1t/YnqpwR8BLhcLm5ubjg+PmZhYYGRkRF6enrY29v7Vh2j0YjD4QBAp9MFWlPiRyPgJePj46hUKun9/f09FouFw8NDtra22N7e5uTkhKGhIfr6+r58JjUaDQAREREcHx9zenpKTk6Ov7o++D0CYmNjUSqV0is1NZWCggLa29uZnJxkdnaWtLQ03G4309PTrK+vf1rz7OyMo6Mj4uPjaWpqAkCr1fqr+ia/Pgnm5eUxMzNDcnIyHo+Hqakp7Hb7h8d4z75araaqqgoAg8HA4+NjwP2CchdQKpUMDg4CYLfbWVxcfHffx8dHDAYDADU1NZSWlpKUlITVamVtbS3gbkG7DZaWlpKbmwuAXq9/d7+1tTWsVisJCQmo1WoA6uvrgd+ZDIO6DqioqADAbDZjsVje3Mc7/BsaGvj371nPOw/s7OxweXkZUKegBpCfny+1zWazT//l5SW7u7sANDc3S9szMzMpKCjA4/EEfBQENYC4uDipbbVaffo1Gg0ej4eioiIyMzNf9XlHwdLSUkCdghpAVFSU1HY6na/63G43KysrwOuz76Wuro6wsDCur68xmUwBcwpqADabTWrHxMS86tve3ub6+pqIiAhqa2t9jo2JiaGyshII7GTo90rwO9zc3Ejtl5cD/D/5OZ1O2traPqyzsbGBxWLxqfETgjoC9vf3gecHpuzsbGn77e0tm5ubX67jcrmky8VfgjYCnp6e2NjYAJ7vBuHh4VLf8vIybreb9PR0JiYmPqwzPz+PwWBAq9XS2dnpt1fQAlhaWuLq6grwneS86/ympiaysrI+rNPR0YHBYMBsNnNwcEBxcbFfXkG5BE5PT5mdnQUgJSWFxsZGqW9vb4+LiwsUCoW04vuIwsJC6RYZiAekXw9Ar9czMDCA0+kkNDSU0dFRQkJCpH7v5FdSUkJKSsqXanrXBKurq9JvBj/F70vAZrNxd3cHPE9ONpuNq6sr9vf3MRqNXFxcABAdHc3w8DCFhYXSsXa7XXrA8X6pr9DQ0MDc3BwOhwOj0UhLS8uP/f0OYGxs7NN9ysvL6e3tJSMj49V2vV6P0+kkMjJSeuz9ComJiZSVlWEymdDpdGIDeIlCoSA6OhqlUklGRgYqlYrKysp3Jzbvgqa6uprIyMhvfVZzczMmk4mDgwPMZrPP0vnLzvJfZf84cgCiBUQjByBaQDRyAKIFRCMHIFpANHIAogVEIwcgWkA0cgCiBUQjByBaQDRyAKIFRPPnA/gPBUh6U+jg9r4AAAAASUVORK5CYII=
+NOTE;CHARSET=UTF-8:CREED was founded by industry insiders, utilizing their expertise to innovate for the future, streamline processes, provide advisory services, and reduce underwriting and transaction friction through digital efficiency for the entire industry.
+
+END:VCARD
