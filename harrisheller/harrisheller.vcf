@@ -1,0 +1,31 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Heller;Harris;;;
+FN:Harris Heller
+ORG:CREED
+COMPANY:CREED
+TITLE:Head of Capital Markets
+ADR;CHARSET=UTF-8:99 Hudson St., Suite 502, New York, NY 10013
+TEL;TYPE=work,pref:
+TEL;CELL;TYPE=mobile,VOICE:+1 215 221 2793
+TEL;CELL;TYPE=Office,VOICE:+1 646 706 5214
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:harris@creed.tech
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100570048
+URL;TYPE=Website:https://www.creed.tech/
+URL;TYPE=WHATSAPP:
+
+
+URL;TYPE=Linkedin:https://linkedin.com/in/hkheller/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA+UlEQVR4nO2asQ2DMBAAn4gZqBiARX4RVqBAYhH2oqdDYoxkBAxKcoXvav59Otkdzb7v76iYFy1AYwBagMYAtACNAWgBGgPQAjQGoAVoDEAL0BiAFqAxAC1AYwBagMYAtADNrQDHcURmRmbGtm3Fc+M4RmbGuq5/2XkHbwAtQGMAWoDGALQAjQFoAZr26eA0Td/0+NnOK7wBTwfneY5hGIq+XZYlzvNEdl7xOEDXddH3fdkhbdkxv9h5RfVPwAC0AI0BaAEaA9ACNNUHaPxVtnIMQAvQGIAWoDEALUBjAFqAxgC0AI0BaAEaA9ACNAagBWgMQAvQVB/gA42RLJs9D7XCAAAAAElFTkSuQmCC
+NOTE;CHARSET=UTF-8:CREED was founded by industry insiders, utilizing their expertise to innovate for the future, streamline processes, provide advisory services, and reduce underwriting and transaction friction through digital efficiency for the entire industry.
+
+END:VCARD
